@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=jp.sourceforge -DartifactId=qrcode -Dversion=3.0 -Dpackaging=jar -Dfile=F:\home_ws\ws.02\jeeplus\WebContent\WEB-INF\lib\QRCode.jar

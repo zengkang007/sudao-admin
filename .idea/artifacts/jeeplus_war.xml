@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sudao:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sudao.war">
+      <element id="artifact" artifact-name="sudao:war exploded" />
+    </root>
+  </artifact>
+</component>
